@@ -1,0 +1,4 @@
+The project will utilize data from two sources. The first will be the location data that will be obtained from the foursquare API. the second data set will be 
+the college dataset which has been sourced from Kaggle. The data set can be found at:https://www.kaggle.com/flyingwombat/us-news-and-world-reports-college-data/data.
+This is dataset contains statistics for a large number of US Colleges from the 1995 issue of US News and World Report. The location of each college can be converted
+to coordinates and then fed into the foursquare API to get the relevant results which will then be used to cluster the colleges.
